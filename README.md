@@ -595,6 +595,97 @@ export { services, technologies, experiences, testimonials, projects };
 }
 ```
 </details>
+Add the following folder in new folder name node_module 
+@emailjs/browser
+Add files via upload
+13 minutes ago
+@emotion
+Add files via upload
+13 minutes ago
+@esbuild/win32-x64
+Add files via upload
+13 minutes ago
+@jridgewell
+Add files via upload
+13 minutes ago
+@nodelib/fs.scandir
+Add files via upload
+13 minutes ago
+@remix-run/router
+Add files via upload
+13 minutes ago
+@types
+Add files via upload
+13 minutes ago
+bidi-js
+Add files via upload
+11 minutes ago
+camelcase-css
+Add files via upload
+11 minutes ago
+camera-controls
+Add files via upload
+11 minutes ago
+chalk
+Add files via upload
+11 minutes ago
+classnames
+Add files via upload
+11 minutes ago
+color-name
+Add files via upload
+11 minutes ago
+convert-source-map
+Add files via upload
+11 minutes ago
+csstype
+Add files via upload
+11 minutes ago
+debounce
+Add files via upload
+11 minutes ago
+debug
+defined
+detect-gpu/dist/benchmarks
+detective/bench
+Add files via upload
+11 minutes ago
+didyoumean
+dlv
+Add files via upload
+draco3d
+Add files via upload
+
+electron-to-chromium
+esbuild
+escalade
+escape-string-regexp
+fast-glob
+
+fastq
+fflate
+
+fill-range
+fraction.js
+function-bind
+gensync
+glob-parent
+globals
+
+glsl-noise
+has-flag
+has
+is-binary-path
+is-core-module
+is-extglob
+is-glob
+ktx-parse
+lilconfig
+lodash.clamp
+lodash.omit
+lodash.pick
+loose-envify
+lru-cache
 
 <details>
 <summary><code>Motion.js</code></summary>
